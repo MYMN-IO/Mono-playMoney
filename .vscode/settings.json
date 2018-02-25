@@ -1,0 +1,8 @@
+{
+	"files.associations": {
+		"*.tag": "htmltag",
+		"xlocale": "cpp",
+		"xstring": "cpp",
+		"xutility": "cpp"
+	}
+}
