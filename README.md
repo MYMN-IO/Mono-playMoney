@@ -1,12 +1,12 @@
 Copyright (c) 2012-2018, The CryptoNote developers, The Bytecoin developers, The Forknote developers  
-Copyright (c) 2017-2018, The MonopolyMoney developers
+Copyright (c) 2017-2018, The Mono-play Money developers
 
-# MonopolyMoney
+# Mono-playMoney
 ## Daemon and CLI tools
 
 *The crypto game is just getting started.*
 
-MonopolyMoney (MYM) is a cryptocurrency based on CryptoNote.
+Mono-playMoney (MYM) is a cryptocurrency based on CryptoNote.
 
 **P2P Port:** 17236  
 **RPC Port:** 18236
@@ -77,7 +77,7 @@ To compile the debug version, omit the `/p:Configuration=Release` parameter. The
 
 The following files are created:
 
-* `monopolymoneyd`: The main coin daemon.
+* `mono-playmoneyd`: The main coin daemon.
 * `miner`: Stand-alone miner tool (requires daemon).
 * `simplewallet`: Command-line wallet tool (requires daemon).
 * `walletd`: Wallet daemon.
