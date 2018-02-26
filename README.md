@@ -8,8 +8,8 @@ Copyright (c) 2017-2018, The MonopolyMoney developers
 
 MonopolyMoney (MYM) is a cryptocurrency based on CryptoNote.
 
-**P2P Port:** 28388  
-**RPC Port:** 28389
+**P2P Port:** 17236  
+**RPC Port:** 18236
 
 ## Build
 
